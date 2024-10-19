@@ -41,3 +41,6 @@
 2024-10-19 07:58:22,441 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-19 07:58:22,452 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-19 07:58:22,456 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TODO CIBERTEC\CUARTO CICLO\LP2\proyecto19Octubre\Proyecto19Octubre\src\test\resources
+2024-10-19 07:59:03,976 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-19 07:59:03,991 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-19 07:59:03,995 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TODO CIBERTEC\CUARTO CICLO\LP2\proyecto19Octubre\Proyecto19Octubre\src\test\resources
